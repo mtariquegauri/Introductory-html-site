@@ -1,5 +1,5 @@
 # CV
 
-index.html file attached is the example of html file.
+Sample introductory program create using html.
 
 Vist site here : https://mtariquegauri.github.io/cv/
